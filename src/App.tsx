@@ -1,5 +1,6 @@
 import Information from "./Components/Information"
 import SocialTree from "./Components/SocialTree"
+
 function App() {
   return (
     <main id="container">
