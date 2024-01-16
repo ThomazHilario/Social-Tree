@@ -1,4 +1,5 @@
 import './socialtree.css'
+import './mediaQueries.css'
 
 export default function SocialTree(){
     return(

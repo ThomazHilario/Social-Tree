@@ -1,5 +1,8 @@
 import imageTree from '../../assets/imagens/anime-wallpaper-g85077484e_640.jpg'
+
 import './information.css'
+import './mediaQuerie.css'
+
 export default function Information(){
     return(
         <div id='informations'>

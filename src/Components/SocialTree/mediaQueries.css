@@ -1,0 +1,17 @@
+@media screen and (max-width:820px){
+    ul > li{
+        width: 600px;
+    }
+}
+
+@media screen and (max-width:620px){
+    ul > li{
+        width: 400px;
+    }
+}
+
+@media screen and (max-width:425px){
+    ul > li{
+        width: 300px;
+    }
+}
