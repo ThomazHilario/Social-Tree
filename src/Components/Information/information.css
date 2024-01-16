@@ -1,0 +1,15 @@
+#informations{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+#informations > img{
+    
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
