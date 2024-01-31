@@ -34,3 +34,7 @@ ul > li:hover{
     background-color: #513f8f;
     box-shadow: 1px 1px 10px black;
 }
+
+.item{
+    background-color: rgb(40, 40, 40);
+}
